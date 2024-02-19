@@ -1,9 +1,12 @@
-
+<div align="center">
 ### Olá, eu sou o Jonas Rodrigues 👋
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonas-rodrigues-656820257/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/devjon_23/)
 [![Instagram](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jonasrodrigues0312@gmail.com)
+</div>
+
+<div align="center">
 
 ![JonasRodri23's Stats](https://github-readme-stats.vercel.app/api?username=JonasRodri23&theme=midnight-purple&show_icons=true&hide_border=false&count_private=true)
 
@@ -11,6 +14,8 @@
 
 ![JonasRodri23's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JonasRodri23&theme=midnight-purple&show_icons=true&hide_border=false&layout=compact)
 
+</div>
+<div align="center">
 ## Tecnologias que eu uso no meu dia
 
 <div style="display: inline_block"><br/>
@@ -22,4 +27,5 @@
     <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
     <img align="center" alt="nextjs" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)" />
     <img align="center" alt="springboot" src="https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?style=for-the-badge&logo=Spring-Boot&logoColor=white" />
+</div>
 </div>
