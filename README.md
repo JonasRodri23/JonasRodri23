@@ -5,9 +5,11 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/devjon_23/)
 [![Instagram](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jonasrodrigues0312@gmail.com)
 
-![Jonas Rodrigues' GitHub stats](https://github-readme-stats.vercel.app/api?username=JonasRodri23&show_icons=true&theme=tokyonight)
+![JonasRodri23's Stats](https://github-readme-stats.vercel.app/api?username=JonasRodri23&theme=midnight-purple&show_icons=true&hide_border=false&count_private=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JonasRodri23&layout=compact)
+![JonasRodri23's Streak](https://github-readme-streak-stats.herokuapp.com/?user=JonasRodri23&theme=midnight-purple&hide_border=false)
+
+![JonasRodri23's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JonasRodri23&theme=midnight-purple&show_icons=true&hide_border=false&layout=compact)
 
 ## Tecnologias que eu uso no meu dia
 
