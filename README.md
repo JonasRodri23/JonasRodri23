@@ -26,4 +26,6 @@
     <img align="center" alt="nextjs" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)" />
     <img align="center" alt="springboot" src="https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?style=for-the-badge&logo=Spring-Boot&logoColor=white" />
 </div>
+
+#### Estudante de programação em constante evolução. Aqui compartilho minhas criações pessoais e meu aprendizado na área da programção.
 </div>
